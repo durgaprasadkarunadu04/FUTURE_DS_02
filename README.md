@@ -24,7 +24,7 @@ Contract, Payment Method, Monthly Charges, Churn
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
